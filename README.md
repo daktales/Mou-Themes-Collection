@@ -38,8 +38,15 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 **Swizzle - Theme**
 
 #### moizk
-[![kublai](Media/Screenshot/kublai_small.png)](Media/Screenshot/kublai_small.png)  
+[![Kublai](Media/Screenshot/kublai_small.png)](Media/Screenshot/kublai_small.png)  
 **Kublai - Css**
+
+#### MSpirek
+[![Verona](Media/Screenshot/verona_small.png)](Media/Screenshot/verona.png)  
+**Verona - Theme**
+
+[![Verona GTD](Media/Screenshot/verona_GTD_small.png)](Media/Screenshot/verona_GTD.png)  
+**Verona GTD - Theme**
 
 
 ### To theme's author(s)
@@ -59,3 +66,4 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * kvanlierop - [https://github.com/kvanlierop/byword-for-mou](https://github.com/kvanlierop/byword-for-mou)
 * chrissimpkins - [https://github.com/chrissimpkins/swizzle](https://github.com/chrissimpkins/swizzle)
 * moizk - [https://github.com/moizk/kublai-mou](https://github.com/moizk/kublai-mou)
+* MSpirek - [https://github.com/MSpirek/Verona](https://github.com/MSpirek/Verona)

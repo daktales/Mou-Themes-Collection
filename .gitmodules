@@ -13,3 +13,6 @@
 [submodule "Submodules/kublai-mou"]
 	path = Submodules/kublai-mou
 	url = https://github.com/moizk/kublai-mou
+[submodule "Submodules/Verona"]
+	path = Submodules/Verona
+	url = git@github.com:MSpirek/Verona.git
