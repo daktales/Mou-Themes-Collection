@@ -26,8 +26,12 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 **Solarized (Light) - Theme + Css**
 
 #### hzlhz
-[![Solarized (Light)](Media/Screenshot/Sublime_and_GithubReadme_small.png)](Media/Screenshot/Sublime_and_GithubReadme.png)  
+[![Sublime and GitHub Readme](Media/Screenshot/Sublime_and_GithubReadme_small.png)](Media/Screenshot/Sublime_and_GithubReadme.png)  
 **Sublime + GitHub Readme - Theme + Css**
+
+#### kvanlierop
+[![Byword (Dark)](Media/Screenshot/Byword_Dark_small.png)](Media/Screenshot/Byword_Dark.png)  
+**Byword (dark) - Theme + Css**
 
 
 ### To theme's author(s)
@@ -44,3 +48,4 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * CodeCatalyst - [https://github.com/CodeCatalyst/mou-theme-solarized](https://github.com/CodeCatalyst/mou-theme-solarized)
 * gcollazo - [https://github.com/gcollazo/mou-theme-github2](https://github.com/gcollazo/mou-theme-github2)
 * hzlhz - [https://github.com/hzlzh/Mou-Theme](https://github.com/hzlzh/Mou-Theme)
+* kvanlierop - [https://github.com/kvanlierop/byword-for-mou](https://github.com/kvanlierop/byword-for-mou)

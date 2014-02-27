@@ -4,3 +4,6 @@
 [submodule "Submodules/Mou-Theme"]
 	path = Submodules/Mou-Theme
 	url = git@github.com:hzlzh/Mou-Theme.git
+[submodule "Submodules/byword-for-mou"]
+	path = Submodules/byword-for-mou
+	url = git@github.com:kvanlierop/byword-for-mou.git
