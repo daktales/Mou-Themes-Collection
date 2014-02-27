@@ -9,7 +9,7 @@ The other day i found myself looking for giving Mou a new look on some of my pdf
 
 
 ### How to install
-Download the right file from [here]() or clone this repository.
+Download the right file from [here](Mou Themes Collection.zip) or clone this repository.
 
 #### Themes
 Copy all `.txt` files from `Themes` directory to `~/Library/Application Support/Mou/Themes`.
