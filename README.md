@@ -9,7 +9,7 @@ The other day i found myself looking for giving Mou a new look on some of my pdf
 
 
 ### How to install
-Download the right file from [here](Mou Themes Collection.zip) or clone this repository.
+Download the right file from [here](Mou Themes Collection.zip) or clone this repository.  
 
 #### Themes
 Copy all `.txt` files from `Themes` directory to `~/Library/Application Support/Mou/Themes`.
@@ -68,6 +68,10 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 [![Clearness Dark+](Media/Screenshot/hatchddigital_small.png)](Media/Screenshot/hatchddigital.png)  
 **Hatchd Digital - Css**
 
+#### Gunther Groenewege
+[![Espresso](Media/Screenshot/espresso_small.png)](Media/Screenshot/espresso.png)  
+**Espresso - Theme**
+
 ### To theme's author(s)
 **I do not want to steal the visibility or the popularity of other theme makers but I want a simple method to download more themes for Mou.**
 
@@ -91,3 +95,4 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * chrissimpkins - [https://github.com/chrissimpkins/snowball](https://github.com/chrissimpkins/snowball)
 * Staudi - [https://github.com/Staudi/Clearness-Dark-Plus](https://github.com/Staudi/Clearness-Dark-Plus)
 * hatchddigital - [https://github.com/hatchddigital/hatchddigital.mou.theme](https://github.com/hatchddigital/hatchddigital.mou.theme)
+* Gunther Groenewege - [http://blog.g-design.net/post/12340005412/mou-theme-espresso](http://blog.g-design.net/post/12340005412/mou-theme-espresso)
