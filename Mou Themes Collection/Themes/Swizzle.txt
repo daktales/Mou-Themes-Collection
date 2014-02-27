@@ -1,0 +1,103 @@
+#Author: Chris Simpkins (https://github.com/chrissimpkins/swizzle)
+#Version: 2
+editor
+foreground: E0E2E4
+background: 2E2633
+caret: E0E2E4
+font-family: helvetica
+
+editor-selection
+foreground: FFFFFF
+background: 2095f0
+
+H1
+foreground: EFFFCD
+font-style: bold
+font-family: Helvetica Neue
+font-size: 22px
+
+H2
+foreground: EFFFCD
+font-style: bold
+font-family: Helvetica Neue
+font-size: 20px
+
+H3
+foreground: EFFFCD
+font-family: Helvetica Neue
+font-size: 18px
+
+H4
+foreground: EFFFCD
+font-family: Helvetica Neue
+font-size: 16px
+
+H5
+foreground: EFFFCD
+font-family: Helvetica Neue
+font-size: 15px
+
+H6
+foreground: EFFFCD
+font-family: Helvetica Neue
+font-size: 14px
+
+EMPH
+foreground: DCE9BE
+font-style: italic
+
+STRONG
+foreground: DCE9BE
+font-style: bold
+
+HRULE
+foreground: EFFFCD
+
+LIST_BULLET
+foreground: 75e349
+
+LIST_ENUMERATOR
+foreground: 75e349
+
+LINK
+foreground: FFFFFF
+background: 99173C
+font-style: bold
+
+AUTO_LINK_URL
+foreground: FFFFFF
+background: 99173C
+font-style: bold
+
+AUTO_LINK_EMAIL
+foreground: FFFFFF
+background: 99173C
+font-style: bold
+
+REFERENCE
+foreground: 888888
+
+IMAGE
+foreground: 222222
+background: EFFFCD
+font-style: bold
+
+CODE
+foreground: abc4f9
+font-family: Menlo
+font-size: 15px
+
+VERBATIM
+foreground: e979d9
+
+HTML_ENTITY
+foreground: EFFFCD
+background: 222222
+
+COMMENT
+foreground: 93a1a1
+background: 1f2224
+font-style: italic
+
+BLOCKQUOTE
+foreground: 75e349

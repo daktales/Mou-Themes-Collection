@@ -7,3 +7,6 @@
 [submodule "Submodules/byword-for-mou"]
 	path = Submodules/byword-for-mou
 	url = git@github.com:kvanlierop/byword-for-mou.git
+[submodule "Submodules/swizzle"]
+	path = Submodules/swizzle
+	url = git@github.com:chrissimpkins/swizzle.git
