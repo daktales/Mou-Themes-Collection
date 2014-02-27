@@ -19,3 +19,15 @@
 [submodule "Submodules/frontier-mou-theme"]
 	path = Submodules/frontier-mou-theme
 	url = git@github.com:arminrosu/frontier-mou-theme.git
+[submodule "Submodules/realm-theme"]
+	path = Submodules/realm-theme
+	url = git@github.com:zhf/realm-theme.git
+[submodule "Submodules/Clearness-Dark-Plus"]
+	path = Submodules/Clearness-Dark-Plus
+	url = git@github.com:Staudi/Clearness-Dark-Plus.git
+[submodule "Submodules/hatchddigital.mou.theme"]
+	path = Submodules/hatchddigital.mou.theme
+	url = git@github.com:hatchddigital/hatchddigital.mou.theme.git
+[submodule "Submodules/snowball"]
+	path = Submodules/snowball
+	url = git@github.com:chrissimpkins/snowball.git

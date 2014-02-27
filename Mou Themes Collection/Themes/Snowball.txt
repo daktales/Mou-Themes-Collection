@@ -1,0 +1,101 @@
+#Author: Chris Simpkins (https://github.com/chrissimpkins/snowball)
+#Version: 1.0
+editor
+foreground: 222222
+background: FFFFFF
+caret: 222222
+font-family: helvetica
+
+editor-selection
+foreground: FFFFFF
+background: 49708A
+
+H1
+foreground: 1573ba
+font-style: bold
+font-family: Helvetica Neue
+font-size: 22px
+
+H2
+foreground: 1573ba
+font-style: bold
+font-family: Helvetica Neue
+font-size: 20px
+
+H3
+foreground: 1573ba
+font-style: bold
+font-family: Helvetica Neue
+font-size: 18px
+
+H4
+foreground: 1573ba
+font-style: bold
+font-family: Helvetica Neue
+font-size: 16px
+
+H5
+foreground: 1573ba
+font-style: bold
+font-family: Helvetica Neue
+font-size: 15px
+
+H6
+foreground: 1573ba
+font-style: bold
+font-family: Helvetica Neue
+font-size: 14px
+
+EMPH
+foreground: 555555
+font-style: italic
+
+STRONG
+foreground: 555555
+font-style: bold
+
+HRULE
+foreground: 1573ba
+
+LIST_BULLET
+foreground: 999999
+
+LIST_ENUMERATOR
+foreground: 999999
+
+LINK
+background: CAFF42
+font-style: bold
+
+AUTO_LINK_URL
+background: CAFF42
+
+AUTO_LINK_EMAIL
+background: CAFF42
+
+REFERENCE
+foreground: 888888
+
+IMAGE
+background: F5F5F5
+foreground: 1b5ea5
+font-style: bold
+
+CODE
+foreground: BA28AA
+font-family: Menlo
+font-size: 15px
+
+VERBATIM
+foreground: 1b5ea5
+
+HTML_ENTITY
+foreground: 999999
+
+COMMENT
+foreground: 93a1a1
+background: F5F5F5
+font-style: italic
+
+BLOCKQUOTE
+foreground: 999999

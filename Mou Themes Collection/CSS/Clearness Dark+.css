@@ -1,0 +1,191 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, "Hiragino Sans GB", Arial, sans-serif;
+    color: #FFF;
+    font-size: 1.1em;
+    line-height: 1.5;
+    background-color: #282A36;
+    margin: .625em .8125em;
+}
+
+p, blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #8D7CD2;
+    line-height: 2.5em;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-style: bold;
+    font-size: 1.5em;
+    margin-top: 1em;
+}
+
+h2 {
+    font-style: bold;
+    font-size: 1em;
+    margin: 1em 0;
+}
+
+h3 {
+    font-size: 1em;
+    margin: .5em 0;
+}
+
+h4 {
+    font-size: .875em;
+}
+
+h5 {
+    font-size: .75em;
+}
+
+h6 {
+    font-size: .6875em;
+}
+
+a {
+    color: #59ACF3;
+}
+
+a:hover {
+    color: #A7D8FF;
+    text-decoration: none;
+}
+
+a img {
+    border: none;
+}
+
+figure {
+    margin: 1em 0;
+}
+
+p {
+    margin-bottom: 0.5em;
+}
+
+::selection {
+    background-color: hsla(338,97%,65%,.99);
+    color: #FFF;
+}
+
+::-moz-selection {
+    background-color: hsla(338,97%,65%,.99);
+    color: #FFF;
+}
+em {
+    color: #DB8D50;
+}
+
+strong {
+    color: #00B2CE;
+}
+
+ul {
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-top:0;
+}
+
+ul li {
+    list-style:none;
+}
+
+ul li:before {
+    content: "* ";
+    color: #FFFF00;
+    padding-right: .2em;
+    font-size: 1.5em;
+    vertical-align: -0.34em;
+}
+
+hr {
+    margin: 0 0 1em;
+    border: 0;
+    border-bottom: .1875em dashed #8D7CD2; 
+}
+
+blockquote {
+    padding: 1em 1.5em;
+    margin-bottom: 1em;
+    font-style: italic;
+    color: #EEE;
+    border-left: 5px solid #00B2CE;
+}
+
+blockquote p {
+    font-weight: 300;
+    font-size: 0.9em;
+    line-height: 1.4;
+    margin-bottom: 0;
+    font-style: italic;
+}
+
+code, pre {
+    font-family: "MesloLGMDZ",Monaco, Andale Mono, Courier New, monospace;
+    font-size: .9em;
+}
+
+code {
+    color: #FF4A14;
+    padding: .0625em .1875em;
+    border-radius: .1875em;
+}
+
+pre {
+    display: block;
+    padding: 1em;
+    margin: 1em inherit;
+    line-height: 1.4;
+    border: .0625em solid #BF370F;
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+pre code {
+    background-color: #282A36;
+    color: #FF4A14;
+    padding: 0;
+}
+
+table {
+    margin: .625em 0 1em 0;
+    border-collapse: collapse;
+}
+
+td,th { 
+    border: .0625em solid #DDD;
+    padding: .1875 .625em;
+}
+
+th {
+    padding: .3125 .625em;  
+}
+
+@media screen and (min-width: 60em) {
+    body {
+        width: 90%;
+        margin: 5% auto;
+    }
+}
+
+@media print {
+    body {
+        font-size: .9em
+    }
+
+	body,code,pre,pre code,h1,h2,h3,h4,h5,h6,ul li::before,em,strong,b,blockquote {
+		color: black;
+		border-color: lightgray;
+	}
+	
+	table, pre {
+		page-break-inside: avoid;
+	}
+}

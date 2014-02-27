@@ -52,6 +52,22 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 [![Verona](Media/Screenshot/Frontier_small.png)](Media/Screenshot/Frontier.png)  
 **Frontier - Theme**
 
+#### zhf
+[![Realm](Media/Screenshot/realm_small.png)](Media/Screenshot/realm.png)  
+**Realm - Css**
+
+#### chrissimpkins
+[![Snowball](Media/Screenshot/snowball_small.png)](Media/Screenshot/snowball.png)  
+**Snowball - Theme**
+
+#### Staudi
+[![Clearness Dark+](Media/Screenshot/clearness_dark_plus_small.png)](Media/Screenshot/clearness_dark_plus.png)  
+**Clearness Dark+ - Css**
+
+#### hatchddigital
+[![Clearness Dark+](Media/Screenshot/hatchddigital_small.png)](Media/Screenshot/hatchddigital.png)  
+**Hatchd Digital - Css**
+
 ### To theme's author(s)
 **I do not want to steal the visibility or the popularity of other theme makers but I want a simple method to download more themes for Mou.**
 
@@ -71,3 +87,7 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * moizk - [https://github.com/moizk/kublai-mou](https://github.com/moizk/kublai-mou)
 * MSpirek - [https://github.com/MSpirek/Verona](https://github.com/MSpirek/Verona)
 * arminrosu - [https://github.com/arminrosu/frontier-mou-theme](https://github.com/arminrosu/frontier-mou-theme)
+* zhf -[https://github.com/zhf/realm-theme](https://github.com/zhf/realm-theme)
+* chrissimpkins - [https://github.com/chrissimpkins/snowball](https://github.com/chrissimpkins/snowball)
+* Staudi - [https://github.com/Staudi/Clearness-Dark-Plus](https://github.com/Staudi/Clearness-Dark-Plus)
+* hatchddigital - [https://github.com/hatchddigital/hatchddigital.mou.theme](https://github.com/hatchddigital/hatchddigital.mou.theme)

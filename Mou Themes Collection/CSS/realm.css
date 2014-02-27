@@ -1,0 +1,216 @@
+@font-face {
+	font-family: "Waukegan LDO";
+	src: url('http://fonts.getfiles.info/WaukeganLDO.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: "unispace";
+	src: url('http://fonts.getfiles.info/unispace.ttf') format('truetype');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    color: #ccc;
+    background-color: #2d2d30;
+}
+
+body {
+    font-family: "Charcoal CY", "Helvetica Neue", Helvetica, "Hiragino Sans GB", sans-serif;
+    font-size: 16px;
+    margin: 5px;
+}
+
+body * {
+	margin-left: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Eurostile", "Waukegan LDO", sans-serif;
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+}
+
+h1, h2 {
+	margin-left: 0;
+	text-align: center;
+	padding: 0.5em 0 0.5em 0;
+}
+
+h2 {
+	border-top: 5px double #333;
+}
+
+h4, h5, h6 {
+	margin-left: 30px;
+}
+
+a {
+    color: #59acf3;
+    margin: 0;
+}
+a:hover {
+    color: #a7d8ff;
+    text-decoration: none;
+}
+a img {
+    border: none;
+}
+p img {
+	margin: 0;
+}
+p {
+    padding: 20px 20px 20px 35px;
+}
+
+em {
+	color: #ffd900;
+	margin: 0;
+	font-style: italic;
+}
+
+strong {
+	color: #ffab00;
+	margin: 0;
+	font-weight: bold;
+}
+del {
+	margin-left: 0.2em;
+	background-color: #59acf3;
+	color: white;
+/* 	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25); */
+	text-decoration: none;
+	font-size: 0.7em;
+	font-weight: bold;
+	padding: 0.1em 0.2em;
+	vertical-align: super;
+	border-radius: 2px;
+/* 	box-shadow: 1px 1px 1px black; */
+}
+li {
+	list-style-type: square;
+	margin-bottom: 5px;
+}
+
+/*
+li li {
+	list-style-type: circle;
+}
+
+*/
+li p {
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+    font-size: 64px;
+/*     font-family: "skia"; */
+    color: #ffab00;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+h2 {
+    font-size: 48px;
+    color: #ccc;
+/*     color: #62ee9a; */
+}
+
+h3 {
+	margin-left: 0;
+	color: #62ee72;
+}
+
+h4, h5, h6 {
+    color: #3ce2e8;
+}
+
+h3 {
+    font-size: 36px;
+/* 	margin-left: 30px !important; */
+}
+h4 {
+    font-size: 28px;
+/* 	margin-left: 60px !important; */
+}
+h5 {
+    font-size: 22px;
+/* 	margin-left: 90px !important; */
+}
+h6 {
+    font-size: 18px;
+/* 	margin-left: 120px !important; */
+}
+hr {
+    margin: 0 0 19px;
+    border: 0;
+    border-bottom: 1px solid #ccc;
+}
+blockquote {
+    padding: 0;
+    margin-bottom: 18px;
+    font-style: italic;
+    border-left: 10px solid #333;
+    margin-left: 30px;
+}
+blockquote p {
+    font-style: italic;
+    padding-left: 10px;
+}
+
+pre, code {
+    font-family: "unispace", "Courier", "Ubuntu Mono", "Consolas", "Lucida Console",  monospace;
+	letter-spacing: 0.12em;
+}
+code {
+	color: #ffab00;
+    margin: 0;
+    border: 1px solid #333;
+/*
+    border-top-color: #222; 
+    border-left-color: #222; 
+*/
+    border-radius: 2px;
+    padding: 0.2em;
+/*     text-shadow: 1px 1px black; */
+}
+pre {
+    display: block;
+    width: 90%;
+    font-size: 16px;
+    padding: 15px;
+    color: inherit;
+    background-color: #333;
+    border: 5px dotted #2d2d30;
+    border-style: dotted solid;
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    margin-left: 30px;
+}
+
+pre code {
+	border: 0;
+	padding: 0;
+	line-height: 150%;
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        width: 668px;
+        margin: 25px auto;
+        padding: 0 40px 40px 40px;
+        border: 5px dashed #333;
+    }
+}
