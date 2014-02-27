@@ -42,10 +42,10 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 **Kublai - Css**
 
 #### MSpirek
-[![Verona](Media/Screenshot/verona_small.png)](Media/Screenshot/verona.png)  
+[![Verona](Media/Screenshot/Verona_small.png)](Media/Screenshot/Verona.png)  
 **Verona - Theme**
 
-[![Verona GTD](Media/Screenshot/verona_GTD_small.png)](Media/Screenshot/verona_GTD.png)  
+[![Verona GTD](Media/Screenshot/Verona_GTD_small.png)](Media/Screenshot/Verona_GTD.png)  
 **Verona GTD - Theme**
 
 
