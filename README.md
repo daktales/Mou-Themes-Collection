@@ -48,6 +48,9 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 [![Verona GTD](Media/Screenshot/Verona_GTD_small.png)](Media/Screenshot/Verona_GTD.png)  
 **Verona GTD - Theme**
 
+#### arminrosu
+[![Verona](Media/Screenshot/Frontier_small.png)](Media/Screenshot/Frontier.png)  
+**Frontier - Theme**
 
 ### To theme's author(s)
 **I do not want to steal the visibility or the popularity of other theme makers but I want a simple method to download more themes for Mou.**
@@ -67,3 +70,4 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * chrissimpkins - [https://github.com/chrissimpkins/swizzle](https://github.com/chrissimpkins/swizzle)
 * moizk - [https://github.com/moizk/kublai-mou](https://github.com/moizk/kublai-mou)
 * MSpirek - [https://github.com/MSpirek/Verona](https://github.com/MSpirek/Verona)
+* arminrosu - [https://github.com/arminrosu/frontier-mou-theme](https://github.com/arminrosu/frontier-mou-theme)
