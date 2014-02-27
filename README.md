@@ -37,6 +37,11 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 [![Swizzle](Media/Screenshot/Swizzle_small.png)](Media/Screenshot/Swizzle.png)  
 **Swizzle - Theme**
 
+#### moizk
+[![kublai](Media/Screenshot/kublai_small.png)](Media/Screenshot/kublai_small.png)  
+**Kublai - Css**
+
+
 ### To theme's author(s)
 **I do not want to steal the visibility or the popularity of other theme makers but I want a simple method to download more themes for Mou.**
 
@@ -53,3 +58,4 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * hzlhz - [https://github.com/hzlzh/Mou-Theme](https://github.com/hzlzh/Mou-Theme)
 * kvanlierop - [https://github.com/kvanlierop/byword-for-mou](https://github.com/kvanlierop/byword-for-mou)
 * chrissimpkins - [https://github.com/chrissimpkins/swizzle](https://github.com/chrissimpkins/swizzle)
+* moizk - [https://github.com/moizk/kublai-mou](https://github.com/moizk/kublai-mou)

@@ -10,3 +10,6 @@
 [submodule "Submodules/swizzle"]
 	path = Submodules/swizzle
 	url = git@github.com:chrissimpkins/swizzle.git
+[submodule "Submodules/kublai-mou"]
+	path = Submodules/kublai-mou
+	url = https://github.com/moizk/kublai-mou
