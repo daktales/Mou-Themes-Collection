@@ -19,14 +19,18 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 
 ### List of Themes and Css
 #### CodeCatalyst
-[![Solarized (Dark)](Media/Screenshot/Solarized_Dark_small.png)](Media/Screenshot/Solarized_Dark.png)
+[![Solarized (Dark)](Media/Screenshot/Solarized_Dark_small.png)](Media/Screenshot/Solarized_Dark.png)  
 **Solarized (Dark) - Theme + Css**
 
-[![Solarized (Light)](Media/Screenshot/Solarized_Light_small.png)](Media/Screenshot/Solarized_Light.png)
+[![Solarized (Light)](Media/Screenshot/Solarized_Light_small.png)](Media/Screenshot/Solarized_Light.png)  
 **Solarized (Light) - Theme + Css**
 
+#### hzlhz
+[![Solarized (Light)](Media/Screenshot/Sublime_and_GithubReadme_small.png)](Media/Screenshot/Sublime_and_GithubReadme.png)  
+**Sublime + GitHub Readme - Theme + Css**
 
-### To theme author(s)
+
+### To theme's author(s)
 **I do not want to steal the visibility or the popularity of other theme makers but I want a simple method to download more themes for Mou.**
 
 If your theme is not in this list and you want to have it here just open an issues or mail me.
@@ -38,3 +42,5 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 ### Credits
 * Mou app - [http://mouapp.com/](http://mouapp.com/)
 * CodeCatalyst - [https://github.com/CodeCatalyst/mou-theme-solarized](https://github.com/CodeCatalyst/mou-theme-solarized)
+* gcollazo - [https://github.com/gcollazo/mou-theme-github2](https://github.com/gcollazo/mou-theme-github2)
+* hzlhz - [https://github.com/hzlzh/Mou-Theme](https://github.com/hzlzh/Mou-Theme)

@@ -1,3 +1,6 @@
 [submodule "Submodules/mou-theme-solarized"]
 	path = Submodules/mou-theme-solarized
 	url = git@github.com:CodeCatalyst/mou-theme-solarized.git
+[submodule "Submodules/Mou-Theme"]
+	path = Submodules/Mou-Theme
+	url = git@github.com:hzlzh/Mou-Theme.git
