@@ -13,9 +13,6 @@
 [submodule "Submodules/kublai-mou"]
 	path = Submodules/kublai-mou
 	url = https://github.com/moizk/kublai-mou
-[submodule "Submodules/Verona"]
-	path = Submodules/Verona
-	url = git@github.com:MSpirek/Verona.git
 [submodule "Submodules/frontier-mou-theme"]
 	path = Submodules/frontier-mou-theme
 	url = git@github.com:arminrosu/frontier-mou-theme.git

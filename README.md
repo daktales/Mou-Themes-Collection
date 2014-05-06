@@ -29,6 +29,9 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 [![Sublime and GitHub Readme](Media/Screenshot/Sublime_and_GithubReadme_small.png)](Media/Screenshot/Sublime_and_GithubReadme.png)  
 **Sublime + GitHub Readme - Theme + Css**
 
+[![GeekPark Article](Media/Screenshot/GeekPark_Article_small.png)](Media/Screenshot/GeekPark_Article.png)  
+**GeekPark Article - Css**
+
 #### kvanlierop
 [![Byword (Dark)](Media/Screenshot/Byword_Dark_small.png)](Media/Screenshot/Byword_Dark.png)  
 **Byword (dark) - Theme + Css**
@@ -89,7 +92,7 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * kvanlierop - [https://github.com/kvanlierop/byword-for-mou](https://github.com/kvanlierop/byword-for-mou)
 * chrissimpkins - [https://github.com/chrissimpkins/swizzle](https://github.com/chrissimpkins/swizzle)
 * moizk - [https://github.com/moizk/kublai-mou](https://github.com/moizk/kublai-mou)
-* MSpirek - [https://github.com/MSpirek/Verona](https://github.com/MSpirek/Verona)
+* MSpirek - ~~[https://github.com/MSpirek/Verona](https://github.com/MSpirek/Verona)~~
 * arminrosu - [https://github.com/arminrosu/frontier-mou-theme](https://github.com/arminrosu/frontier-mou-theme)
 * zhf -[https://github.com/zhf/realm-theme](https://github.com/zhf/realm-theme)
 * chrissimpkins - [https://github.com/chrissimpkins/snowball](https://github.com/chrissimpkins/snowball)
