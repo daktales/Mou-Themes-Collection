@@ -88,7 +88,7 @@ When possible I'll use git submodule and I'll track your repository to keep ever
 * Mou app - [http://mouapp.com/](http://mouapp.com/)
 * CodeCatalyst - [https://github.com/CodeCatalyst/mou-theme-solarized](https://github.com/CodeCatalyst/mou-theme-solarized)
 * gcollazo - [https://github.com/gcollazo/mou-theme-github2](https://github.com/gcollazo/mou-theme-github2)
-* hzlhz - [https://github.com/hzlzh/Mou-Theme](https://github.com/hzlzh/Mou-Theme)
+* hzlzh - [https://github.com/hzlzh/Mou-Theme](https://github.com/hzlzh/Mou-Theme)
 * kvanlierop - [https://github.com/kvanlierop/byword-for-mou](https://github.com/kvanlierop/byword-for-mou)
 * chrissimpkins - [https://github.com/chrissimpkins/swizzle](https://github.com/chrissimpkins/swizzle)
 * moizk - [https://github.com/moizk/kublai-mou](https://github.com/moizk/kublai-mou)
