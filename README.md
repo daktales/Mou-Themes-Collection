@@ -30,7 +30,7 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 **Sublime + GitHub Readme - Theme + Css**
 
 [![GeekPark Article](Media/Screenshot/GeekPark_Article_small.png)](Media/Screenshot/GeekPark_Article.png)  
-**GeekPark Article - Css**
+**GeekPark Article - Css** (discontinued)
 
 #### kvanlierop
 [![Byword (Dark)](Media/Screenshot/Byword_Dark_small.png)](Media/Screenshot/Byword_Dark.png)  
