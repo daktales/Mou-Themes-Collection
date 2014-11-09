@@ -25,7 +25,7 @@ Copy all `.css` files in `CSS` directory to `~/Library/Application Support/Mou/C
 [![Solarized (Light)](Media/Screenshot/Solarized_Light_small.png)](Media/Screenshot/Solarized_Light.png)  
 **Solarized (Light) - Theme + Css**
 
-#### hzlhz
+#### hzlzh
 [![Sublime and GitHub Readme](Media/Screenshot/Sublime_and_GithubReadme_small.png)](Media/Screenshot/Sublime_and_GithubReadme.png)  
 **Sublime + GitHub Readme - Theme + Css**
 
