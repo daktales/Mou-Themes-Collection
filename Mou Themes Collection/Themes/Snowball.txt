@@ -1,49 +1,51 @@
-#Author: Chris Simpkins (https://github.com/chrissimpkins/snowball)
-#Version: 1.0
+# Author: Chris Simpkins (https://github.com/chrissimpkins/snowball)
+# Version: 2.1
+
 editor
-foreground: 222222
+foreground: 404749
 background: FFFFFF
 caret: 222222
-font-family: helvetica
+font-family: Roboto Mono
+font-size: 14px
 
 editor-selection
 foreground: FFFFFF
-background: 49708A
+background: 67161F
 
 H1
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
-font-family: Helvetica Neue
-font-size: 22px
+font-family: Fira Sans
+font-size: 26px
 
 H2
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
-font-family: Helvetica Neue
-font-size: 20px
+font-family: Fira Sans
+font-size: 22px
 
 H3
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
-font-family: Helvetica Neue
+font-family: Fira Sans
 font-size: 18px
 
 H4
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
-font-family: Helvetica Neue
+font-family: Fira Sans
 font-size: 16px
 
 H5
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
-font-family: Helvetica Neue
+font-family: Fira Sans
 font-size: 15px
 
 H6
-foreground: 1573ba
+foreground: 49708A
 font-style: bold
-font-family: Helvetica Neue
+font-family: Fira Sans
 font-size: 14px
 
 EMPH
@@ -58,33 +60,34 @@ HRULE
 foreground: 1573ba
 
 LIST_BULLET
-foreground: 999999
+foreground: 88ABC2
 
 LIST_ENUMERATOR
-foreground: 999999
+foreground: 88ABC2
 
 LINK
-background: CAFF42
-font-style: bold
+background: EBF7F8
+foreground: 49708A
 
 AUTO_LINK_URL
-background: CAFF42
+background: EBF7F8
+foreground: 49708A
 
 AUTO_LINK_EMAIL
-background: CAFF42
+background: EBF7F8
+foreground: 49708A
 
 REFERENCE
 foreground: 888888
 
 IMAGE
-background: F5F5F5
-foreground: 1b5ea5
-font-style: bold
+background: EBF7F8
+foreground: 49708A
 
 CODE
 foreground: BA28AA
-font-family: Menlo
-font-size: 15px
+font-family: Hack
+font-size: 13px
 
 VERBATIM
 foreground: 1b5ea5
@@ -99,3 +102,5 @@ font-style: italic
 
 BLOCKQUOTE
 foreground: 999999
+font-family: Hack
+font-style: italic
